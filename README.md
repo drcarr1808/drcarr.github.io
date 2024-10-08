@@ -21,4 +21,4 @@ Welcome to my data analytics portfolio! I'm Daniel Robert Carr, a freelance data
 - Statistical analysis, business insights and communication
 
 ## Contact:
-[Your Email] | [LinkedIn Profile]
+[drcarr.buffunicorn@gmail.com] | [LinkedIn Profile]
