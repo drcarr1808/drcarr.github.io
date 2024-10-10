@@ -8,3 +8,9 @@ Business Goals for the Project:
   - Analyze membership data to identify patterns and reasons for churn.
   - Segment customers based on behavior, demographics, and preferences.
   - Develop strategies to improve retention by identifying at-risk customers early.
+
+## Objective 
+Predict customer churn—identify customers likely to cancel their subscription.
+
+## Business Goal 
+Reduce churn and improve customer retention by offering targeted interventions.
