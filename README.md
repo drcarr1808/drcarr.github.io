@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio! I'm Daniel Robert Carr, a freelance data
 
 ## Projects:
 
-- **Customer Sales Analysis** (SQL, Excel)
+- **Predicting Customer Churn for FlexFit Gym** (Excel, R)
   Analyzed customer sales data to identify key performance trends and sales drivers. [Link to project]
 
 - **Fitness Data Visualization** (Tableau)
