@@ -7,8 +7,8 @@ Welcome to my data analytics portfolio! I'm Daniel Robert Carr, a freelance data
 
 ## Projects:
 
-- **Predicting Customer Churn for FlexFit Gym** (Excel, R)
-  Analyzed customer sales data to identify key performance trends and sales drivers. [Link to project]
+- **Analysing Covid19 trends** (Excel, R, SQL)
+  Analyze trends in COVID-19 cases, recoveries, and vaccinations across different countries or states. Visualize the data to see how different regions were affected over time and identify correlations between government policies and case numbers. [Link to project]
 
 - **Fitness Data Visualization** (Tableau)
   Visualized fitness activity data to find patterns and insights. [Link to project]
