@@ -1,1 +1,18 @@
+**PREPARE THE DATA FOR ANALYSIS**
+- Opened the sales_pipeline.csv in Google Docs.
+- Opened the sales_teams.csv in another tab.
+- Checked for Blank Values
+- Moved over two columns (manager and regional-office) using the XLOOKUP function. 
 
+**EXPLORE THE DATA WITH PIVOT TABLES**
+- Inserted a pivot table to show opportunities won by quarter.
+- Added another pivot table (On the same sheet) to break down the percentage of won and lost opportunities by quarter.
+- Created a final pivot table, one that shows the oppurtunities won by quarter for each sales agent, and sort the sales agents in descending order by opportunities won. 
+- Restructured the first two pivot tables so they have the quarters as pivot table columns (Not rows) and sort them so the most recent quarter always comes first. 
+ 
+**BUILD A DYNAMIC DASHBOARD**
+- Insert a scorecard chart visual to show the opportunities won for the most recent quarter (2017-Q4) compared to the previous one (2017-Q3).
+- Use a pie chart to show the percentage of opportunities won and lost in the most recent quarter.
+- Use a bar chart to visualise the opportunities won by sales agent for the most recent quarter.
+- Add slicers for the regional_office and manager fields.
+- Finish things off by arranging the visuals into a dashboard and adding a title. 
