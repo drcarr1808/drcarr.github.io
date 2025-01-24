@@ -7,14 +7,25 @@ Welcome to my data analytics portfolio! I'm Daniel Robert Carr, a freelance data
 
 ## Projects:
 
-- **Analysing Covid19 trends** (Excel, R, SQL)
-  Analyze trends in COVID-19 cases, recoveries, and vaccinations across different countries or states. Visualize the data to see how different regions were affected over time and identify correlations between government policies and case numbers. [Link to project]
+- **Analysing Sales Data** (Google Sheets)
+Annalyze sales data to help understand which sale rep is contributing the most to the growth of the company. Visualize the data to see who and under which manager different at which point in the year, seperated into quarters. [Link to project]
+Link to original dataset here: [Original Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=CRM+Sales+Opportunities)
 
-- **Fitness Data Visualization** (Tableau)
+- **Fitness Data Visualization** (Google Sheets, SQL)
   Visualized fitness activity data to find patterns and insights. [Link to project]
 
+- **Untitled Project 1** (Google Sheets, R)
+
+- **Untitled Project 2** (Google Sheets, SQL, Python)
+
+- **Untitled Project 3** (SQL, Tableau)
+
+- **Untitled Project 4** (Python, PowerBI)
+
+- **Untitled Project 5** (Google Sheets, SQL, JavaScript)
+
 ## Skills:
-- SQL, R, Spreadsheets, Tableau
+- SQL, R, Spreadsheets (Google Sheets/Excel), Pyhton, Tableau, PowerBI, and JavaScript.
 - Data cleaning, analysis, exploration, visualization, wrangling
 - Data ethics and bias
 - Project management, Dashboards and reports
