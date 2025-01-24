@@ -9,8 +9,8 @@ Welcome to my data analytics portfolio! I'm Daniel Robert Carr, a freelance data
 
 - **Analysing Sales Data** (Google Sheets)
 Annalyze sales data to help understand which sale rep is contributing the most to the growth of the company. Visualize the data to see who and under which manager different at which point in the year, seperated into quarters.
-. Link to the project here: [Link to project](https://github.com/drcarr1808/drcarr.github.io/blob/main/google_sheets_project_one)
-. Link to original dataset here: [Original Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=CRM+Sales+Opportunities)
+  - Link to the project here: [Link to project](https://github.com/drcarr1808/drcarr.github.io/blob/main/google_sheets_project_one)
+  - Link to original dataset here: [Original Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=CRM+Sales+Opportunities)
 
 - **Fitness Data Visualization** (Google Sheets, SQL)
   Visualized fitness activity data to find patterns and insights. [Link to project]
