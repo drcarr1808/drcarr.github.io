@@ -1,3 +1,7 @@
+**GETTING STARTED**
+- Went to the website [Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=CRM+Sales+Opportunities)
+- Downloaded and unzipped the data.
+
 **PREPARE THE DATA FOR ANALYSIS**
 - Opened the sales_pipeline.csv in Google Docs.
 - Opened the sales_teams.csv in another tab.
