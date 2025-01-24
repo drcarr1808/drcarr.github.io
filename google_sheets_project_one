@@ -6,7 +6,7 @@
 - Opened the sales_pipeline.csv in Google Docs.
 - Opened the sales_teams.csv in another tab.
 - Checked for Blank Values
-- Moved over two columns (manager and regional-office) using the XLOOKUP function. 
+- Moved over two columns (manager and regional-office) using the XLOOKUP function.
 
 **EXPLORE THE DATA WITH PIVOT TABLES**
 - Inserted a pivot table to show opportunities won by quarter.
@@ -20,3 +20,6 @@
 - Use a bar chart to visualise the opportunities won by sales agent for the most recent quarter.
 - Add slicers for the regional_office and manager fields.
 - Finish things off by arranging the visuals into a dashboard and adding a title. 
+
+**Completed .csv**
+- 
