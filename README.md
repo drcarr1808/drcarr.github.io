@@ -13,7 +13,8 @@ Annalyze sales data to help understand which sale rep is contributing the most t
   - Link to original dataset here: [Original Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=CRM+Sales+Opportunities)
   - Link to the completed dataset: [CRM Sales Dashboard.xlsx](https://github.com/user-attachments/files/18559695/CRM.Sales.Dashboard.xlsx)
   - Link to the completed pivot tables: [Pivot Table 1.csv](https://github.com/user-attachments/files/18559708/CRM.Sales.Dashboard.-.Pivot.Table.1.csv)
-  - Link to the visulisations for this project: [Visualisations]
+  - Link to the visulisations for this project: [Visualisations](https://github.com/user-attachments/files/18559824/CRM.Sales.Dashboard.2.xlsx)
+
 
 - **Fitness Data Visualization** (Google Sheets, SQL)
   Visualized fitness activity data to find patterns and insights. [Link to project]
